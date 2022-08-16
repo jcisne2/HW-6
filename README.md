@@ -15,7 +15,7 @@ https://jcisne2.github.io/HW-6/
 ![Screenshot (34)](https://user-images.githubusercontent.com/108189023/184805411-6347b3fc-7652-4f76-b0ab-9646886bce64.png)
 
 ## Installation
-Common webbrowser that supports html, CSS and JavaScript
+Common webbrowser that supports html and JavaScript
 
 
 ## Credits
