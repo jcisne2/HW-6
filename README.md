@@ -9,6 +9,7 @@ getting more experience using fetch is also very important.
 
 https://github.com/jcisne2/HW-6
 
+https://jcisne2.github.io/HW-6/
 
 ## screenshot
 ![Screenshot (34)](https://user-images.githubusercontent.com/108189023/184805411-6347b3fc-7652-4f76-b0ab-9646886bce64.png)
